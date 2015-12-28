@@ -1,0 +1,62 @@
+
+.button
+{
+	MARGIN-TOP: 42px;
+	margin-left: 773px;
+}
+ .header1
+{
+ 	width: 100%;
+ 	height: 70px;
+ 	background: url("fsts.jpg") center;
+ 	background-repeat:no-repeat;
+ 	BORDER: #969696 1px dotted;
+ 	}
+ .header2
+{
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+ 	font-size: 10px;
+ 	color: #FF0000;
+ 	width: 100%;
+ 	height: 70px;
+ 	background: url("fstsnet.jpg") repeat-x top left;
+ 	BORDER: #969696 1px ridge;
+}
+ .header3
+{
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+ 	font-size: 10px;
+ 	color: #FF0000;
+ 	width: 100%;
+ 	height: 70px;
+ 	background: url("hassan1.jpg") repeat center;
+ 	background-repeat:no-repeat;
+ 	BORDER: #969696 1px dotted;
+}
+.corps
+{
+	width:100%;
+	height: 1000px;
+	padding-left: 15px;
+	border-top: 1px ridge;
+}
+.gauche
+{
+	width: 95%;
+	height: 1000px;
+	BORDER-LEFT: 1px ridge;
+	BORDER-TOP: 1px ridge;
+	padding-left: 10px;
+	BORDER-RIGHT: 2px ridge;
+	background-color: #f1f1f1;
+    }
+.droite
+{
+	width: 95%;
+	height: 1000px;
+	BORDER-RIGHT: 1px ridge;
+	BORDER-LEFT: 2px ridge;
+	BORDER-TOP: 1px ridge;
+	padding-left: 10px;
+	background-color: #f1f1f1;
+}
